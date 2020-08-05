@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49aab594-f290-4a16-b00a-34d72c698e99" name="Default Changelist" comment="" />
+    <list default="true" id="49aab594-f290-4a16-b00a-34d72c698e99" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/lib/screens/HomeScreen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/HomeScreen.dart" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.dart_tool/" />
     <ignored path="$PROJECT_DIR$/.idea/" />
     <ignored path="$PROJECT_DIR$/.pub/" />
@@ -27,7 +29,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/screens/HomeScreen.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1188">
+            <state relative-caret-position="150">
               <caret line="54" column="72" selection-start-line="54" selection-start-column="72" selection-end-line="54" selection-end-column="72" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
@@ -178,7 +180,7 @@
       <window_info id="Capture Tool" />
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Dart Analysis" weight="0.32891566" />
-      <window_info anchor="bottom" id="Run" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Logcat" />
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="Debug" />
@@ -254,7 +256,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/screens/HomeScreen.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1188">
+        <state relative-caret-position="150">
           <caret line="54" column="72" selection-start-line="54" selection-start-column="72" selection-end-line="54" selection-end-column="72" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
